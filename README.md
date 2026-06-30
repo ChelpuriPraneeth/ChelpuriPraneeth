@@ -103,7 +103,7 @@ Python • MySQL
 
 ## 💻 Coding Profiles
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- GitHub: https://github.com/ChelpuriPraneeth
 - LinkedIn: https://www.linkedin.com/in/praneeth-chelpuri-b3b13b31b
 
 ---
